@@ -1,16 +1,9 @@
 <?php
 
-/* ===================================
-* Author: Nazarkin Roman
-* -----------------------------------
-* Contacts:
-* email - roman@nazarkin.su
-* icq - 642971062
-* skype - roman444ik
-* -----------------------------------
-* GitHub:
-* https://github.com/NazarkinRoman
-* ===================================
+/*
+ * 1Cache - Fast PHP caching
+ * By Nazarkin Roman & Ali Mihandoost
+ * http//ali.md/1cache
 */
 
 class MicroCache {
