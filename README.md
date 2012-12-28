@@ -1,4 +1,7 @@
-# Installing Memcached Server and access it with PHP
+# Ali.MD 1Cache - Fast PHP caching
+Fast and small script for caching dynamic pages on your site with PHP. Uses Memcached/File cache methods.
+
+## Installing Memcached Server and access it with PHP
 Thinking of implementing caching for your php application , Just in 6 simple (copy and paste) steps you can install and access Memcached Server.
 
 1. **Install libevent ,libmemcached and libmemcached devel (dependency)**  
@@ -47,7 +50,7 @@ Thinking of implementing caching for your php application , Just in 6 simple (co
 	service httpd restart
 	```
 
-# Usage
+## Usage
 Downlaod `cache.class.php` and include it to your project  
 You can specify a script directly inside the cache configuration.  
   
