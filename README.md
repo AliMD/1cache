@@ -86,3 +86,6 @@ $cache->end();
 
 Anyone and everyone is welcome to
 [contribute](/NazarkinRoman/PHP-Fast-cache/blob/master/CONTRIBUTING.md).
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/AliMD/1cache/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
